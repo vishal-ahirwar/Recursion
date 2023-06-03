@@ -139,7 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Recursion.cpp" />
+    <ClCompile Include="ExponentUsingRecursion.cpp" />
+    <ClCompile Include="FactorialUsingRecursion.cpp" />
+    <ClCompile Include="FibonacciSeriesUsingRecursion.cpp" />
+    <ClCompile Include="IndirectRecursion.cpp" />
+    <ClCompile Include="nCR.cpp" />
+    <ClCompile Include="NestedRecursion.cpp" />
+    <ClCompile Include="SumOfNRecursion.cpp" />
+    <ClCompile Include="TaylorSeriesUsingRecursion.cpp" />
+    <ClCompile Include="TowerOfHonoi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
